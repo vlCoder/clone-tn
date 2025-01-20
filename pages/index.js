@@ -147,8 +147,8 @@ function Home() {
           <p>
             Se você tiver dúvidas ou preocupações sobre esta Política de
             Privacidade, entre em contato conosco pelo e-mail:{" "}
-            <a href="mailto:suporte@taskmanagerapp.com">
-              suporte@taskmanagerapp.com
+            <a href="mailto:viniciuscamargo87@gmail.com">
+              viniciuscamargo87@gmail.com
             </a>
             .
           </p>
